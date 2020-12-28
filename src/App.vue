@@ -38,7 +38,7 @@ export default {
           discipter: "html",
         },
         {
-          start: 15,
+          start: 12,
           end: 30,
           name: "javascript",
           discipter: "javascript",
